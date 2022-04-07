@@ -32,7 +32,7 @@ I will try to add one more feature like a sign-up page for registered guests, so
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-I hope that I can input some income statements from Booking.com and make a graph to visualize how much we make during those months.
+I hope that I can input some income statements from Booking.com and make a graph to visualize how much we make during the months from the statements.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
