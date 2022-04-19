@@ -4,9 +4,9 @@
 
 Hoang Dan
 
-#### Your section leader's name
+#### Your section leader's name:
 
-Hoang Dan
+Prof.Joanne Nichols
 
 #### Project title
 
